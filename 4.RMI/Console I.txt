@@ -1,0 +1,20 @@
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Admin>cd desktop
+
+C:\Documents and Settings\Admin\Desktop>javac RemoteInterface.java
+
+C:\Documents and Settings\Admin\Desktop>javac ServerImplements.java
+
+C:\Documents and Settings\Admin\Desktop>rmic ServerImplements
+
+C:\Documents and Settings\Admin\Desktop>javac Server.java
+
+C:\Documents and Settings\Admin\Desktop>javac Client.java
+
+C:\Documents and Settings\Admin\Desktop>start
+
+C:\Documents and Settings\Admin\Desktop>start
+
+C:\Documents and Settings\Admin\Desktop>rmiregistry
